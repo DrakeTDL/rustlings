@@ -1,7 +1,7 @@
 # rustlings 🦀❤️ Solutions
 
 ## Quiz
-- [ ] quiz1
+- [X] quiz1
 - [ ] quiz2
 - [ ] quiz3
 
