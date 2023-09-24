@@ -6,8 +6,8 @@
 - [ ] quiz3
 
 ## Intro
-- [ ] intro1
-- [ ] intro2
+- [x] intro1
+- [x] intro2
 
 ## Variables
 - [ ] variables1
