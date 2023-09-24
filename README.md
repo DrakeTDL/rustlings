@@ -30,12 +30,12 @@
 - [X] if3
 
 ## Primitive_types
-- [ ] primitive_types1
-- [ ] primitive_types2
-- [ ] primitive_types3
-- [ ] primitive_types4
-- [ ] primitive_types5
-- [ ] primitive_types6
+- [X] primitive_types1
+- [X] primitive_types2
+- [X] primitive_types3
+- [X] primitive_types4
+- [X] primitive_types5
+- [X] primitive_types6
 
 ## Vecs
 - [ ] vecs1
