@@ -25,9 +25,9 @@
 - [X] functions5
 
 ## If
-- [ ] if1
-- [ ] if2
-- [ ] if3
+- [X] if1
+- [X] if2
+- [X] if3
 
 ## Primitive_types
 - [ ] primitive_types1
