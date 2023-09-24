@@ -18,11 +18,11 @@
 - [x] variables6
 
 ## Functions
-- [ ] functions1
-- [ ] functions2
-- [ ] functions3
-- [ ] functions4
-- [ ] functions5
+- [X] functions1
+- [X] functions2
+- [X] functions3
+- [X] functions4
+- [X] functions5
 
 ## If
 - [ ] if1
