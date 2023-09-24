@@ -10,12 +10,12 @@
 - [x] intro2
 
 ## Variables
-- [ ] variables1
-- [ ] variables2
-- [ ] variables3
-- [ ] variables4
-- [ ] variables5
-- [ ] variables6
+- [x] variables1
+- [x] variables2
+- [x] variables3
+- [x] variables4
+- [x] variables5
+- [x] variables6
 
 ## Functions
 - [ ] functions1
