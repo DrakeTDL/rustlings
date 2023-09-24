@@ -38,8 +38,8 @@
 - [X] primitive_types6
 
 ## Vecs
-- [ ] vecs1
-- [ ] vecs2
+- [X] vecs1
+- [X] vecs2
 
 ## Move_semantics
 - [ ] move_semantics1
