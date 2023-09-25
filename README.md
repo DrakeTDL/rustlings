@@ -89,8 +89,8 @@
 - [X] [errors6](exercises/error_handling/errors6.rs)
 
 ## [Generics](exercises/generics/README.md)
-- [ ] [generics1](exercises/generics/generics1.rs)
-- [ ] [generics2](exercises/generics/generics1.rs)
+- [X] [generics1](exercises/generics/generics1.rs)
+- [X] [generics2](exercises/generics/generics2.rs)
 
 ## [Traits](exercises/traits/README.md)
 - [ ] [traits1](exercises/traits/traits1.rs)
