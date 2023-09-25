@@ -71,9 +71,9 @@
 - [X] modules3
 
 ## Hashmaps
-- [ ] hashmaps1
-- [ ] hashmaps2
-- [ ] hashmaps3
+- [X] hashmaps1
+- [X] hashmaps2
+- [X] hashmaps3
 
 ## Options
 - [ ] options1
