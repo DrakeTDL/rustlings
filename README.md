@@ -60,10 +60,10 @@
 - [X] enums3
 
 ## Strings
-- [ ] strings1
-- [ ] strings2
-- [ ] strings3
-- [ ] strings4
+- [X] strings1
+- [X] strings2
+- [X] strings3
+- [X] strings4
 
 ## Modules
 - [ ] modules1
