@@ -1,146 +1,146 @@
 # rustlings 🦀❤️ Solutions
 
 ## Quiz
-- [X] quiz1
-- [X] quiz2
-- [ ] quiz3
+- [X] [quiz1](exercises/quiz1.rs)
+- [X] [quiz2](exercises/quiz2.rs)
+- [ ] [quiz3](exercises/quiz3.rs)
 
-## Intro
-- [x] intro1
-- [x] intro2
+## [Intro](exercises/intro/README.md)
+- [x] [intro1](exercises/intro/intro1.rs)
+- [x] [intro2](exercises/intro/intro2.rs)
 
-## Variables
-- [x] variables1
-- [x] variables2
-- [x] variables3
-- [x] variables4
-- [x] variables5
-- [x] variables6
+## [Variables](exercises/variables/README.md)
+- [x] [variables1](exercises/variables/variables1.rs)
+- [x] [variables2](exercises/variables/variables2.rs)
+- [x] [variables3](exercises/variables/variables3.rs)
+- [x] [variables4](exercises/variables/variables4.rs)
+- [x] [variables5](exercises/variables/variables5.rs)
+- [x] [variables6](exercises/variables/variables6.rs)
 
-## Functions
-- [X] functions1
-- [X] functions2
-- [X] functions3
-- [X] functions4
-- [X] functions5
+## [Functions](exercises/functions/README.md)
+- [X] [functions1](exercises/functions/functions1.rs)
+- [X] [functions2](exercises/functions/functions2.rs)
+- [X] [functions3](exercises/functions/functions3.rs)
+- [X] [functions4](exercises/functions/functions4.rs)
+- [X] [functions5](exercises/functions/functions5.rs)
 
-## If
-- [X] if1
-- [X] if2
-- [X] if3
+## [If](exercises/if/README.md)
+- [X] [if1](exercises/if/if1.rs)
+- [X] [if2](exercises/if/if2.rs)
+- [X] [if3](exercises/if/if3.rs)
 
-## Primitive_types
-- [X] primitive_types1
-- [X] primitive_types2
-- [X] primitive_types3
-- [X] primitive_types4
-- [X] primitive_types5
-- [X] primitive_types6
+## [Primitive_types](exercises/primitive_types/README.md)
+- [X] [primitive_types1](exercises/primitive_types/primitive_types1.rs)
+- [X] [primitive_types2](exercises/primitive_types/primitive_types2.rs)
+- [X] [primitive_types3](exercises/primitive_types/primitive_types3.rs)
+- [X] [primitive_types4](exercises/primitive_types/primitive_types4.rs)
+- [X] [primitive_types5](exercises/primitive_types/primitive_types5.rs)
+- [X] [primitive_types6](exercises/primitive_types/primitive_types6.rs)
 
-## Vecs
-- [X] vecs1
-- [X] vecs2
+## [Vecs](exercises/vecs/README.md)
+- [X] [vecs1](exercises/vecs/vecs1.rs)
+- [X] [vecs2](exercises/vecs/vecs2.rs)
 
-## Move_semantics
-- [X] move_semantics1
-- [X] move_semantics2
-- [X] move_semantics3
-- [X] move_semantics4
-- [X] move_semantics5
-- [X] move_semantics6
+## [Move_semantics](exercises/move_semantics/README.md)
+- [X] [move_semantics1](exercises/move_semantics/move_semantics1.rs)
+- [X] [move_semantics2](exercises/move_semantics/move_semantics2.rs)
+- [X] [move_semantics3](exercises/move_semantics/move_semantics3.rs)
+- [X] [move_semantics4](exercises/move_semantics/move_semantics4.rs)
+- [X] [move_semantics5](exercises/move_semantics/move_semantics5.rs)
+- [X] [move_semantics6](exercises/move_semantics/move_semantics6.rs)
 
-## Structs
-- [X] structs1
-- [X] structs2
-- [X] structs3
+## [Structs](exercises/structs/README.md)
+- [X] [structs1](exercises/structs/structs1.rs)
+- [X] [structs2](exercises/structs/structs2.rs)
+- [X] [structs3](exercises/structs/structs3.rs)
 
-## Enums
-- [X] enums1
-- [X] enums2
-- [X] enums3
+## [Enums](exercises/enums/README.md)
+- [X] [enums1](exercises/enums/enums1.rs)
+- [X] [enums2](exercises/enums/enums2.rs)
+- [X] [enums3](exercises/enums/enums3.rs)
 
-## Strings
-- [X] strings1
-- [X] strings2
-- [X] strings3
-- [X] strings4
+## [Strings](exercises/strings/README.md)
+- [X] [strings1](exercises/strings/strings1.rs)
+- [X] [strings2](exercises/strings/strings2.rs)
+- [X] [strings3](exercises/strings/strings3.rs)
+- [X] [strings4](exercises/strings/strings4.rs)
 
-## Modules
-- [X] modules1
-- [X] modules2
-- [X] modules3
+## [Modules](exercises/modules/README.md)
+- [X] [modules1](exercises/modules/modules1.rs)
+- [X] [modules2](exercises/modules/modules2.rs)
+- [X] [modules3](exercises/modules/modules3.rs)
 
-## Hashmaps
-- [X] hashmaps1
-- [X] hashmaps2
-- [X] hashmaps3
+## [Hashmaps](exercises/hashmaps/README.md)
+- [X] [hashmaps1](exercises/hashmaps/hashmaps1.rs)
+- [X] [hashmaps2](exercises/hashmaps/hashmaps2.rs)
+- [X] [hashmaps3](exercises/hashmaps/hashmaps3.rs)
 
-## Options
-- [X] options1
-- [X] options2
-- [X] options3
+## [Options](exercises/options/README.md)
+- [X] [options1](exercises/options/options1.rs)
+- [X] [options2](exercises/options/options2.rs)
+- [X] [options3](exercises/options/options3.rs)
 
-## Error_handling
-- [ ] errors1
-- [ ] errors2
-- [ ] errors3
-- [ ] errors4
-- [ ] errors5
-- [ ] errors6
+## [Error_handling](exercises/error_handling/README.md)
+- [ ] [errors1](exercises/error_handling/errors1.rs)
+- [ ] [errors2](exercises/error_handling/errors2.rs)
+- [ ] [errors3](exercises/error_handling/errors3.rs)
+- [ ] [errors4](exercises/error_handling/errors4.rs)
+- [ ] [errors5](exercises/error_handling/errors5.rs)
+- [ ] [errors6](exercises/error_handling/errors6.rs)
 
-## Generics
-- [ ] generics1
-- [ ] generics2
+## [Generics](exercises/generics/README.md)
+- [ ] [generics1](exercises/generics/generics1.rs)
+- [ ] [generics2](exercises/generics/generics1.rs)
 
-## Traits
-- [ ] traits1
-- [ ] traits2
-- [ ] traits3
-- [ ] traits4
-- [ ] traits5
+## [Traits](exercises/traits/README.md)
+- [ ] [traits1](exercises/traits/traits1.rs)
+- [ ] [traits2](exercises/traits/traits2.rs)
+- [ ] [traits3](exercises/traits/traits3.rs)
+- [ ] [traits4](exercises/traits/traits4.rs)
+- [ ] [traits5](exercises/traits/traits5.rs)
 
-## Lifetimes
-- [ ] lifetimes1
-- [ ] lifetimes2
-- [ ] lifetimes3
+## [Lifetimes](exercises/lifetimes/README.md)
+- [ ] [lifetimes1](exercises/lifetimes/lifetimes1.rs)
+- [ ] [lifetimes2](exercises/lifetimes/lifetimes2.rs)
+- [ ] [lifetimes3](exercises/lifetimes/lifetimes3.rs)
 
-## Tests
-- [ ] tests1
-- [ ] tests2
-- [ ] tests3
-- [ ] tests4
+## [Tests](exercises/tests/README.md)
+- [ ] [tests1](exercises/tests/tests1.rs)
+- [ ] [tests2](exercises/tests/tests2.rs)
+- [ ] [tests3](exercises/tests/tests3.rs)
+- [ ] [tests4](exercises/tests/tests4.rs)
 
-## Iteratiterators1
-- [ ] iterators2
-- [ ] iterators3
-- [ ] iterators4
-- [ ] iterators5
+## [Iteratiterators1](exercises/iteratiterators1/README.md)
+- [ ] [iterators2](exercises/iterators/iterators2.rs)
+- [ ] [iterators3](exercises/iterators/iterators3.rs)
+- [ ] [iterators4](exercises/iterators/iterators4.rs)
+- [ ] [iterators5](exercises/iterators/iterators5.rs)
 
-## Smart_pointarc1
-- [ ] box1
-- [ ] cow1
-- [ ] rc1
+## [Smart_pointarc1](exercises/smart_pointarc1/README.md)
+- [ ] [box1](exercises/box/box1.rs)
+- [ ] [cow1](exercises/cow/cow1.rs)
+- [ ] [rc1](exercises/rc/rc1.rs)
 
-## Threads
-- [ ] threads1
-- [ ] threads2
-- [ ] threads3
+## [Threads](exercises/threads/README.md)
+- [ ] [threads1](exercises/threads/threads1.rs)
+- [ ] [threads2](exercises/threads/threads2.rs)
+- [ ] [threads3](exercises/threads/threads3.rs)
 
-## Macros
-- [ ] macros1
-- [ ] macros2
-- [ ] macros3
-- [ ] macros4
+## [Macros](exercises/macros/README.md)
+- [ ] [macros1](exercises/macros/macros1.rs)
+- [ ] [macros2](exercises/macros/macros2.rs)
+- [ ] [macros3](exercises/macros/macros3.rs)
+- [ ] [macros4](exercises/macros/macros4.rs)
 
-## Clippy
-- [ ] clippy1
-- [ ] clippy2
-- [ ] clippy3
+## [Clippy](exercises/clippy/README.md)
+- [ ] [clippy1](exercises/clippy/clippy1.rs)
+- [ ] [clippy2](exercises/clippy/clippy2.rs)
+- [ ] [clippy3](exercises/clippy/clippy3.rs)
 
-## Conversions
-- [ ] using_as
-- [ ] from_into
-- [ ] from_str
-- [ ] as_ref_mut
-- [ ] try_from_into
+## [Conversions](exercises/conversions/README.md)
+- [ ] [using_as](exercises/using_a/using_as.rs)
+- [ ] [from_into](exercises/from_int/from_into.rs)
+- [ ] [from_str](exercises/from_st/from_str.rs)
+- [ ] [as_ref_mut](exercises/as_ref_mu/as_ref_mut.rs)
+- [ ] [try_from_into](exercises/try_from_int/try_from_into.rs)
 
