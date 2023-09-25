@@ -66,9 +66,9 @@
 - [X] strings4
 
 ## Modules
-- [ ] modules1
-- [ ] modules2
-- [ ] modules3
+- [X] modules1
+- [X] modules2
+- [X] modules3
 
 ## Hashmaps
 - [ ] hashmaps1
