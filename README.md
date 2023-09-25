@@ -81,12 +81,12 @@
 - [X] [options3](exercises/options/options3.rs)
 
 ## [Error_handling](exercises/error_handling/README.md)
-- [ ] [errors1](exercises/error_handling/errors1.rs)
-- [ ] [errors2](exercises/error_handling/errors2.rs)
-- [ ] [errors3](exercises/error_handling/errors3.rs)
-- [ ] [errors4](exercises/error_handling/errors4.rs)
-- [ ] [errors5](exercises/error_handling/errors5.rs)
-- [ ] [errors6](exercises/error_handling/errors6.rs)
+- [X] [errors1](exercises/error_handling/errors1.rs)
+- [X] [errors2](exercises/error_handling/errors2.rs)
+- [X] [errors3](exercises/error_handling/errors3.rs)
+- [X] [errors4](exercises/error_handling/errors4.rs)
+- [X] [errors5](exercises/error_handling/errors5.rs)
+- [X] [errors6](exercises/error_handling/errors6.rs)
 
 ## [Generics](exercises/generics/README.md)
 - [ ] [generics1](exercises/generics/generics1.rs)
