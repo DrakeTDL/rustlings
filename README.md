@@ -2,7 +2,7 @@
 
 ## Quiz
 - [X] quiz1
-- [ ] quiz2
+- [X] quiz2
 - [ ] quiz3
 
 ## Intro
