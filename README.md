@@ -76,9 +76,9 @@
 - [X] hashmaps3
 
 ## Options
-- [ ] options1
-- [ ] options2
-- [ ] options3
+- [X] options1
+- [X] options2
+- [X] options3
 
 ## Error_handling
 - [ ] errors1
