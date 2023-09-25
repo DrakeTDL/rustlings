@@ -55,9 +55,9 @@
 - [X] structs3
 
 ## Enums
-- [ ] enums1
-- [ ] enums2
-- [ ] enums3
+- [X] enums1
+- [X] enums2
+- [X] enums3
 
 ## Strings
 - [ ] strings1
