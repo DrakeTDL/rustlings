@@ -49,15 +49,15 @@
 - [X] move_semantics5
 - [X] move_semantics6
 
+## Structs
+- [X] structs1
+- [X] structs2
+- [X] structs3
+
 ## Enums
 - [ ] enums1
 - [ ] enums2
 - [ ] enums3
-
-## Structs
-- [ ] structs1
-- [ ] structs2
-- [ ] structs3
 
 ## Strings
 - [ ] strings1
