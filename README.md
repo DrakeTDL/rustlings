@@ -105,10 +105,10 @@
 - [X] [lifetimes3](exercises/lifetimes/lifetimes3.rs)
 
 ## [Tests](exercises/tests/README.md)
-- [ ] [tests1](exercises/tests/tests1.rs)
-- [ ] [tests2](exercises/tests/tests2.rs)
-- [ ] [tests3](exercises/tests/tests3.rs)
-- [ ] [tests4](exercises/tests/tests4.rs)
+- [X] [tests1](exercises/tests/tests1.rs)
+- [X] [tests2](exercises/tests/tests2.rs)
+- [X] [tests3](exercises/tests/tests3.rs)
+- [X] [tests4](exercises/tests/tests4.rs)
 
 ## [Iteratiterators1](exercises/iteratiterators1/README.md)
 - [ ] [iterators2](exercises/iterators/iterators2.rs)
