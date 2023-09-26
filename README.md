@@ -110,11 +110,12 @@
 - [X] [tests3](exercises/tests/tests3.rs)
 - [X] [tests4](exercises/tests/tests4.rs)
 
-## [Iteratiterators1](exercises/iteratiterators1/README.md)
-- [ ] [iterators2](exercises/iterators/iterators2.rs)
-- [ ] [iterators3](exercises/iterators/iterators3.rs)
-- [ ] [iterators4](exercises/iterators/iterators4.rs)
-- [ ] [iterators5](exercises/iterators/iterators5.rs)
+## [Iteratiterators1](exercises/iterators/README.md)
+- [X] [iterators1](exercises/iterators/iterators1.rs)
+- [X] [iterators2](exercises/iterators/iterators2.rs)
+- [X] [iterators3](exercises/iterators/iterators3.rs)
+- [X] [iterators4](exercises/iterators/iterators4.rs)
+- [X] [iterators5](exercises/iterators/iterators5.rs)
 
 ## [Smart_pointarc1](exercises/smart_pointarc1/README.md)
 - [ ] [box1](exercises/box/box1.rs)
