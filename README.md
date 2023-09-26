@@ -100,9 +100,9 @@
 - [X] [traits5](exercises/traits/traits5.rs)
 
 ## [Lifetimes](exercises/lifetimes/README.md)
-- [ ] [lifetimes1](exercises/lifetimes/lifetimes1.rs)
-- [ ] [lifetimes2](exercises/lifetimes/lifetimes2.rs)
-- [ ] [lifetimes3](exercises/lifetimes/lifetimes3.rs)
+- [X] [lifetimes1](exercises/lifetimes/lifetimes1.rs)
+- [X] [lifetimes2](exercises/lifetimes/lifetimes2.rs)
+- [X] [lifetimes3](exercises/lifetimes/lifetimes3.rs)
 
 ## [Tests](exercises/tests/README.md)
 - [ ] [tests1](exercises/tests/tests1.rs)
