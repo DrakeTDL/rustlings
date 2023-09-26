@@ -3,7 +3,7 @@
 ## Quiz
 - [X] [quiz1](exercises/quiz1.rs)
 - [X] [quiz2](exercises/quiz2.rs)
-- [ ] [quiz3](exercises/quiz3.rs)
+- [X] [quiz3](exercises/quiz3.rs)
 
 ## [Intro](exercises/intro/README.md)
 - [x] [intro1](exercises/intro/intro1.rs)
