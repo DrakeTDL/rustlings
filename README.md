@@ -93,11 +93,11 @@
 - [X] [generics2](exercises/generics/generics2.rs)
 
 ## [Traits](exercises/traits/README.md)
-- [ ] [traits1](exercises/traits/traits1.rs)
-- [ ] [traits2](exercises/traits/traits2.rs)
-- [ ] [traits3](exercises/traits/traits3.rs)
-- [ ] [traits4](exercises/traits/traits4.rs)
-- [ ] [traits5](exercises/traits/traits5.rs)
+- [X] [traits1](exercises/traits/traits1.rs)
+- [X] [traits2](exercises/traits/traits2.rs)
+- [X] [traits3](exercises/traits/traits3.rs)
+- [X] [traits4](exercises/traits/traits4.rs)
+- [X] [traits5](exercises/traits/traits5.rs)
 
 ## [Lifetimes](exercises/lifetimes/README.md)
 - [ ] [lifetimes1](exercises/lifetimes/lifetimes1.rs)
