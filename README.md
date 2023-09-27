@@ -117,10 +117,11 @@
 - [X] [iterators4](exercises/iterators/iterators4.rs)
 - [X] [iterators5](exercises/iterators/iterators5.rs)
 
-## [Smart_pointarc1](exercises/smart_pointarc1/README.md)
-- [ ] [box1](exercises/box/box1.rs)
-- [ ] [cow1](exercises/cow/cow1.rs)
-- [ ] [rc1](exercises/rc/rc1.rs)
+## [smart_pointers](exercises/smart_pointers/README.md)
+- [ ] [box1](exercises/smart_pointers/box1.rs)
+- [ ] [cow1](exercises/smart_pointers/cow1.rs)
+- [ ] [rc1](exercises/smart_pointers/rc1.rs)
+- [ ] [arc1](exercises/smart_pointers/arc1.rs)
 
 ## [Threads](exercises/threads/README.md)
 - [ ] [threads1](exercises/threads/threads1.rs)
@@ -139,9 +140,9 @@
 - [ ] [clippy3](exercises/clippy/clippy3.rs)
 
 ## [Conversions](exercises/conversions/README.md)
-- [ ] [using_as](exercises/using_a/using_as.rs)
-- [ ] [from_into](exercises/from_int/from_into.rs)
-- [ ] [from_str](exercises/from_st/from_str.rs)
-- [ ] [as_ref_mut](exercises/as_ref_mu/as_ref_mut.rs)
-- [ ] [try_from_into](exercises/try_from_int/try_from_into.rs)
+- [ ] [using_as](exercises/Conversions/using_as.rs)
+- [ ] [from_into](exercises/Conversions/from_into.rs)
+- [ ] [from_str](exercises/Conversions/from_str.rs)
+- [ ] [as_ref_mut](exercises/Conversions/as_ref_mut.rs)
+- [ ] [try_from_into](exercises/Conversions/try_from_into.rs)
 
